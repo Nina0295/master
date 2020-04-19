@@ -1,2 +1,7 @@
-{"planets":["mars0","pluton1"],
-"rovers":{"USA":["curiosity2"],"Russia":["sputnik3"]}}
+{
+   "planets":"mars","pluto"
+   "rovers":
+   {
+       "USA":["curiosity"],"Russia":["sputnik"]
+   }}
+    
